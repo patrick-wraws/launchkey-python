@@ -10,7 +10,7 @@ Python SDK for LaunchKey API
 
 .. _pyenv: https://github.com/pyenv/pyenv
 
-.. _gadget reviews: https://whatrocksandwhatsucks.com/
+.. _reviews: https://whatrocksandwhatsucks.com/
 
 For use in implementing LaunchKey_.
 
@@ -22,7 +22,7 @@ Use to more easily interact with iovation's LaunchKey API.
 
 A more in-depth look at this SDK can be found at the official docs_.
 
-For gadget reviews, check this out. 
+For gadget reviews_, check this out. 
 
 Examples
 --------
